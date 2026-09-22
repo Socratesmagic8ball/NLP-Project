@@ -5,7 +5,7 @@ This repository explores the detection of toxic language and media bias within L
 
 ## Group Members
 This project was developed as a collaborative effort by:
-* **Varnika K.**
+* [**Varnika K**](https://github.com/socratesmagic8ball)
 * [**Kaavya Lakshmi**](https://github.com/kaavyaproject)
 * **V Venkatesh**
 * **Chacko C**
